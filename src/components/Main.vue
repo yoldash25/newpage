@@ -24,7 +24,7 @@
             <img
               src="../../public/images/pepsi-pulse-logo.webp"
               alt="Pepsi-ZeroSugar-Can-Pulsating-Logo"
-              class="absolute animate-scale-animation top-[120px] md:top-[155px] w-[200px] md:w-[280px]"
+              class="absolute top-[120px] md:top-[155px] w-[200px] md:w-[280px]"
             />
           </div>
         </div>
@@ -43,7 +43,7 @@
             LET’S GET STARTED
           </h2>
           <div class="flex flex-col items-center">
-            <p class="font-pepsi-owner font-bold text-center mb-2 text-xl">
+            <p class=" font-bold text-center mb-2 text-xl">
               CHECK OUT THE LATEST DROP
             </p>
             <svg
