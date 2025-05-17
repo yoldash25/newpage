@@ -28,9 +28,6 @@
         </div>
         <a
           class="mb-5 mt-5 block text-center text-xs italic lg:text-left"
-          href="/official-rules"
-          target="_self"
-          rel="noreferrer"
           >U.S. res, 18+ (19+ in AL/NE). Ends 6/10/25. Limit one entry per person/email
           address per day. Subject to Official Rules. *Actual prize may vary from what’s
           shown.</a
